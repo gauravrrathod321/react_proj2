@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "empid": "5",
+      "name": "gaurav",
+      "salary": "52000",
+      "id": 1
+    },
+    {
+      "empid": "11",
+      "name": "mangle ",
+      "salary": "25000",
+      "id": 2
+    },
+    {
+      "empid": "5",
+      "name": "SANKET",
+      "salary": "152000",
+      "id": 3
+    },
+    {
+      "empid": "102",
+      "name": "mangle",
+      "salary": "4500",
+      "id": 4
+    },
+    {
+      "empid": "65",
+      "name": "abhishek",
+      "salary": "98000",
+      "id": 5
+    },
+    {
+      "empid": "303",
+      "name": "manoj",
+      "salary": "4500",
+      "id": 6
+    },
+    {
+      "empid": "13",
+      "name": "ajay",
+      "salary": "35000",
+      "id": 7
+    }
+  ]
+}
